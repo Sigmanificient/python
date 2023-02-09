@@ -1,6 +1,4 @@
-"""
-Functionality relating to individual colours.
-"""
+"""Functionality relating to individual colours."""
 from __future__ import annotations
 
 import re
